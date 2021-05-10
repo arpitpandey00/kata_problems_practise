@@ -1,0 +1,13 @@
+C:\work\kata 4\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.exe
+C:\work\kata 4\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.deps.json
+C:\work\kata 4\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.runtimeconfig.json
+C:\work\kata 4\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.runtimeconfig.dev.json
+C:\work\kata 4\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.dll
+C:\work\kata 4\Sum consecutives\Sum consecutives\bin\Debug\netcoreapp3.1\Sum consecutives.pdb
+C:\work\kata 4\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.csprojAssemblyReference.cache
+C:\work\kata 4\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.AssemblyInfoInputs.cache
+C:\work\kata 4\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.AssemblyInfo.cs
+C:\work\kata 4\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.csproj.CoreCompileInputs.cache
+C:\work\kata 4\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.dll
+C:\work\kata 4\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.pdb
+C:\work\kata 4\Sum consecutives\Sum consecutives\obj\Debug\netcoreapp3.1\Sum consecutives.genruntimeconfig.cache
