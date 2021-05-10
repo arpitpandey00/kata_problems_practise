@@ -1,12 +1,15 @@
 ﻿using System;
+using TwoJoggers;
 
 namespace TwoJoggers
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+            EntryFile entryFile = new EntryFile();
+            entryFile.KataEntry();
         }
     }
 }

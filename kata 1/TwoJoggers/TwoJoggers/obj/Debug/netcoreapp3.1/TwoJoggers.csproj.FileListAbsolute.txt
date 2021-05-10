@@ -1,0 +1,13 @@
+C:\work\kata 1\TwoJoggers\TwoJoggers\bin\Debug\netcoreapp3.1\TwoJoggers.exe
+C:\work\kata 1\TwoJoggers\TwoJoggers\bin\Debug\netcoreapp3.1\TwoJoggers.deps.json
+C:\work\kata 1\TwoJoggers\TwoJoggers\bin\Debug\netcoreapp3.1\TwoJoggers.runtimeconfig.json
+C:\work\kata 1\TwoJoggers\TwoJoggers\bin\Debug\netcoreapp3.1\TwoJoggers.runtimeconfig.dev.json
+C:\work\kata 1\TwoJoggers\TwoJoggers\bin\Debug\netcoreapp3.1\TwoJoggers.dll
+C:\work\kata 1\TwoJoggers\TwoJoggers\bin\Debug\netcoreapp3.1\TwoJoggers.pdb
+C:\work\kata 1\TwoJoggers\TwoJoggers\obj\Debug\netcoreapp3.1\TwoJoggers.csprojAssemblyReference.cache
+C:\work\kata 1\TwoJoggers\TwoJoggers\obj\Debug\netcoreapp3.1\TwoJoggers.AssemblyInfoInputs.cache
+C:\work\kata 1\TwoJoggers\TwoJoggers\obj\Debug\netcoreapp3.1\TwoJoggers.AssemblyInfo.cs
+C:\work\kata 1\TwoJoggers\TwoJoggers\obj\Debug\netcoreapp3.1\TwoJoggers.csproj.CoreCompileInputs.cache
+C:\work\kata 1\TwoJoggers\TwoJoggers\obj\Debug\netcoreapp3.1\TwoJoggers.dll
+C:\work\kata 1\TwoJoggers\TwoJoggers\obj\Debug\netcoreapp3.1\TwoJoggers.pdb
+C:\work\kata 1\TwoJoggers\TwoJoggers\obj\Debug\netcoreapp3.1\TwoJoggers.genruntimeconfig.cache
