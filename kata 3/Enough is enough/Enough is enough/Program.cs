@@ -2,11 +2,13 @@
 
 namespace Enough_is_enough
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Console.WriteLine("Hello World!");
+            EntryClaass entryClaass = new EntryClaass();
+            entryClaass.entry();
         }
     }
 }

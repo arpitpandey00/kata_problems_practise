@@ -1,0 +1,13 @@
+C:\work\kata 3\Enough is enough\Enough is enough\bin\Debug\netcoreapp3.1\Enough is enough.exe
+C:\work\kata 3\Enough is enough\Enough is enough\bin\Debug\netcoreapp3.1\Enough is enough.deps.json
+C:\work\kata 3\Enough is enough\Enough is enough\bin\Debug\netcoreapp3.1\Enough is enough.runtimeconfig.json
+C:\work\kata 3\Enough is enough\Enough is enough\bin\Debug\netcoreapp3.1\Enough is enough.runtimeconfig.dev.json
+C:\work\kata 3\Enough is enough\Enough is enough\bin\Debug\netcoreapp3.1\Enough is enough.dll
+C:\work\kata 3\Enough is enough\Enough is enough\bin\Debug\netcoreapp3.1\Enough is enough.pdb
+C:\work\kata 3\Enough is enough\Enough is enough\obj\Debug\netcoreapp3.1\Enough is enough.csprojAssemblyReference.cache
+C:\work\kata 3\Enough is enough\Enough is enough\obj\Debug\netcoreapp3.1\Enough is enough.AssemblyInfoInputs.cache
+C:\work\kata 3\Enough is enough\Enough is enough\obj\Debug\netcoreapp3.1\Enough is enough.AssemblyInfo.cs
+C:\work\kata 3\Enough is enough\Enough is enough\obj\Debug\netcoreapp3.1\Enough is enough.csproj.CoreCompileInputs.cache
+C:\work\kata 3\Enough is enough\Enough is enough\obj\Debug\netcoreapp3.1\Enough is enough.dll
+C:\work\kata 3\Enough is enough\Enough is enough\obj\Debug\netcoreapp3.1\Enough is enough.pdb
+C:\work\kata 3\Enough is enough\Enough is enough\obj\Debug\netcoreapp3.1\Enough is enough.genruntimeconfig.cache
