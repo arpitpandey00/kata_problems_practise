@@ -10,7 +10,7 @@ namespace Enough_is_enough
         {
             int max = 0;
             List<int> finalArray = new List<int>();
-            int k = 0;
+            
             for(int i=0;i<array.Length;i++)
             {
                 if(array[i]>max)
