@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Enough_is_enough
@@ -46,6 +47,15 @@ namespace Enough_is_enough
             }
             Console.WriteLine("final output");
             finalArray.ForEach(elements => Console.WriteLine(elements));
+
+          //  or-----------------
+            //    foreach(int number in array)
+            //{
+            //    if(finalArray.Where(x=>x==number).Count()<count)
+            //    {
+            //        finalArray.Add(number);
+            //    }
+            //}
         }
     }
 }
